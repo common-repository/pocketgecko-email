@@ -1,0 +1,120 @@
+# Copyright (C) 2021 pocketgecko-email
+# This file is distributed under the same license as the pocketgecko-email package.
+msgid ""
+msgstr ""
+"Project-Id-Version: pocketgecko-email\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/pocketgecko-email-admin.php:10
+msgid "PocketGecko Email"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:13
+msgid "Email"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:26
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:78
+msgid "SMTP Settings"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:92
+msgid "The address emails will be sent from"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:98
+msgid "The name of the sender"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:104
+msgid "Your mail sever"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:110
+msgid "Port used by your mail server"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:120
+msgid "The encryption method used by your mail server"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:127
+msgid "Whether to use SMTP authentication"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:133
+msgid "Username to login to your mail server"
+msgstr ""
+
+#: src/pocketgecko-email-admin.php:139
+msgid "Password to login to your mail server"
+msgstr ""
+
+#: src/includes/email.php:48, src/includes/email.php:64
+msgid "Email sent successfully."
+msgstr ""
+
+#: src/includes/email.php:81
+msgid ""
+"Error: request not authenticated.\n"
+""
+msgstr ""
+
+#: src/includes/email.php:88
+msgid ""
+"Error: an email requires a recipient.\n"
+""
+msgstr ""
+
+#: src/includes/email.php:94
+msgid ""
+"Error: only users with the 'publish_posts' capability can send emails to non-default recipients.\n"
+""
+msgstr ""
+
+#: src/includes/email.php:100
+msgid ""
+"Error: only users with the 'publish_posts' capability can send carbon copies.\n"
+""
+msgstr ""
+
+#: src/includes/email.php:106
+msgid ""
+"Error: only users with the 'publish_posts' capability can send blind carbon copies.\n"
+""
+msgstr ""
+
+#: src/includes/email.php:111
+msgid ""
+"Error: an email requires a subject.\n"
+""
+msgstr ""
+
+#: src/includes/email.php:116
+msgid ""
+"Error: an email requires a body.\n"
+""
+msgstr ""
+
+#: src/includes/scripts.php:18
+msgid "Sending"
+msgstr ""
+
+#: src/includes/templates/email-options.php:7
+msgid "Save Settings"
+msgstr ""
